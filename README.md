@@ -1,4 +1,4 @@
-# ML-based-tR-prediction-model-for-lipids-identification
+# Machine-Learning-based-tR-prediction-model-for-lipids-identification
 Machine learning (ML)-based retention time (tR) prediction model for lipids identification 
 In this study, a retention time prediction model was developed based on molecular descriptors and molecular fingerprints by using a machine learning method to help increase confidence in lipid annotation and reduce the identification errors. Furthermore, the comparison between molecular descriptors and molecular fingerprints was performed. Then, datasets were applied to validate the applicability and stability of the retention time predictions model. For possible retention time deviations between different instruments or acquisition batches, a linear retention time calibration method was used. Also, for the retention time difference between different chromatographic systems (CS), a linear relationship was constructed to transfer the retention time from the old CS to a new CS with the help of the ML model.
 The steps are as follows: 
